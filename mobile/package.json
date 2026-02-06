@@ -1,0 +1,1 @@
+{"dependencies": {"expo": "~45.0.0","react": "17.0.2","react-dom": "17.0.2","react-native": "~0.68.0","react-native-web": "~0.18.7"},"main": "node_modules/expo/AppEntry.js","private": true}
