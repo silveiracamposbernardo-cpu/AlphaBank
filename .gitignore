@@ -1,0 +1,15 @@
+node_modules/
+.env
+.env.local
+dist/
+build/
+.DS_Store
+*.log
+npm-debug.log*
+.next/
+.venv/
+__pycache__/
+.idea/
+.vscode/
+*.swp
+.env.example
